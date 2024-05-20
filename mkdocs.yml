@@ -1,0 +1,48 @@
+site_name: Data Driven Financial Analyst
+theme:
+  name: material
+  #custom_dir: docs/theme
+  #favicon: img/favicon.ico
+  #logo: img/favicon.ico
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltip
+    - header.autohide
+    - announce.dismiss
+    - navigation.footer
+    #- navigation.sections
+    #- navigation.expand
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    
+
+  language: en
+  palette:
+    - scheme: slate
+      primary: dark
+      accent: lime
+
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    
+
+    - scheme: default
+      primary: blue
+      accent: purple 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode    
+
+markdown_extensions:
+  - admonition
+  - toc:
+      toc_depth: 3
