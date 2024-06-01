@@ -46,3 +46,80 @@ markdown_extensions:
   - admonition
   - toc:
       toc_depth: 3
+
+nav:
+  - Introduction: 'index.md'
+  - Status Quo: 'Status Quo.md'
+  - The New Way: 'The New Way.md'
+  - Overview: 'Overview.md'
+  - Data Formats:
+      - 'Data Formats/Status Quo.md'
+      - 'Data Formats/CSV.md'
+      - 'Data Formats/JSON.md'
+      - 'Data Formats/YAML.md'
+      - 'Data Formats/Parquet.md'
+      - 'Data Formats/Pickle.md'
+  - File Management:
+      - 'File Management/Status Quo.md'
+      - 'File Management/Folders and Files.md'
+      - 'File Management/Tips for Effective File Management.md'
+  - Project Management:
+      - 'Project Management/Status Quo.md'
+      - 'Project Management/Waterfall.md'
+      - 'Project Management/Agile.md'
+      - 'Project Management/How Agile Can Work in Investments.md'
+  - Password Management:
+      - 'Password Management/Password Managers.md'
+  - Documentation:
+      - 'Documentation/Status Quo.md'
+      - 'Documentation/Technical Guidelines.md'
+  - The Terminal:
+      - 'The Terminal/What is it and How to Access It.md'
+      - 'The Terminal/Common Commands.md'
+  - Version Management:
+      - 'Version Management/Status Quo.md'
+      - 'Version Management/Managing Versions with File Management.md'
+      - 'Version Management/Git.md'
+      - 'Version Management/Git Platforms.md'
+  - Programming Languages:
+      - 'Programming Languages/Status Quo.md'
+      - 'Programming Languages/VBA.md'
+      - 'Programming Languages/Python.md'
+      - 'Programming Languages/R.md'
+      - 'Programming Languages/SQL.md'
+      - 'Programming Languages/Matlab.md'
+      - 'Programming Languages/Which One to Choose.md'
+  - Introduction to Programming:
+      - 'Introduction to Programming/Setting up with Python.md'
+      - 'Introduction to Programming/IDE vs Notebooks.md'
+      - 'Introduction to Programming/Using an IDE.md'
+      - 'Introduction to Programming/Using a Notebooks.md'
+      - 'Introduction to Programming/Packages and Libraries.md'
+      - 'Introduction to Programming/Variables and Data Types.md'
+      - 'Introduction to Programming/Control Flows.md'
+      - 'Introduction to Programming/Functions.md'
+      - 'Introduction to Programming/Series and Dataframes.md'
+      - 'Introduction to Programming/Saving and Loading Data.md'
+      - 'Introduction to Programming/Virtual environments.md'
+      - 'Introduction to Programming/Best Practices.md'
+  - APIs:
+      - 'APIs/What are APIs.md'
+      - 'APIs/How to Use Them.md'
+      - 'APIs/API Wrappers.md'
+  - Environment Variables:
+      - 'Environment Variables/What are Environment Variables.md'
+      - 'Environment Variables/Managing sensitive keys with Environment Variables.md'
+  - Financial Data Analysis:
+      - 'Financial Data Analysis/Dataframes.md'
+      - 'Financial Data Analysis/Long vs Wide Data.md'
+      - 'Financial Data Analysis/Data Wrangling.md'
+      - 'Financial Data Analysis/Aggregation and Grouping.md'
+      - 'Financial Data Analysis/Time Series Data.md'
+      - 'Financial Data Analysis/Financial Transformations.md'
+      - 'Financial Data Analysis/Joining Multiple Datasets.md'
+
+
+
+plugins:
+  - search
+  - awesome-pages
