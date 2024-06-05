@@ -1,4 +1,4 @@
-# Time Series
+# Time Series Data
 
 Time series data plays an important role in financial markets as it exists in various forms, such as historical share price and trading volume data, or economic indicators. Python offers various functions that make it quick and easy to analyse time series data.
 
