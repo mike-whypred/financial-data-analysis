@@ -1,109 +1,95 @@
-# What are they
+# DataFrames
 
-A DataFrame is a powerful data structure commonly used in data analysis and manipulation, especially within the Python programming language. It is part of the pandas library, which is widely used in the data science community.
+## What are they
+A DataFrame is a two-dimensional, size-mutable, and potentially heterogeneous tabular data structure with labeled axes (rows and columns). Think of it as a table in a database or an Excel spreadsheet. DataFrames are a key data structure in the pandas library, which is widely used for data manipulation and analysis in Python.
 
-## Key Characteristics of a DataFrame:
+In this lesson we will use [cleaned ETF datasets](https://raw.githubusercontent.com/mike-whypred/financial-data-analysis/main/data/asx_etp_202401_small.csv) as our input.
 
- - Tabular Structure: A DataFrame is similar to a table in a database or an Excel spreadsheet. It consists of rows and columns, where each column can contain data of different types (integers, floats, strings, etc.).
- - Labeled Axes: DataFrames have labeled axes (rows and columns), which makes it easy to refer to specific data points using labels. The row labels are known as the index, and the column labels are simply referred to as columns.
- - Data Alignment: DataFrames automatically align data based on the labels in the axes. This makes operations like addition and subtraction straightforward and intuitive.
- - Flexible Data Manipulation: You can easily perform a variety of data manipulations on DataFrames, including filtering, aggregation, reshaping, and merging. Pandas provides a wide array of methods for handling these tasks efficiently.
+To load the data we can utilize `read_csv` from `pandas` library. We will print top 5 rows using `head` function.
 
-![data frame sceenshot](../Financial%20Data%20Analysis/asset/Dataframes/1.png)
-
-We can leverage function from `pandas` package `read_csv` and print top 5 rows by using `head` function.
-
-```
+```py
 import pandas as pd
 
-df = pd.read_csv("asx_etp_202401.csv")
+df = pd.read_csv("asx_etp_202401_clean.csv")
 df.head(5)
 
 ```
 ![top 5 sceenshot](../Financial%20Data%20Analysis/asset/Dataframes/top5.png)
 
-We can leverage function from `pandas` package `read_csv` and print top 5 rows by using `head` function.
+## Selecting and Filtering
+Selecting and filtering data in a DataFrame allows you to access specific rows and columns based on conditions.
 
-```
+```python
 import pandas as pd
 
-df = pd.read_csv("asx_etp_202401.csv")
-df.head(5)
+# Load data from a CSV file
+df = pd.read_csv("asx_etp_202401_clean.csv")
 
-```
+# Select a single column
+df['ticker']
 
-![top 5 sceenshot](../Financial%20Data%20Analysis/asset/Dataframes/top5.png)
+# Filter based on a condition
+df[df['sector'] == 'Equity - Australia']
 
-## Data types in dataframe
+# Filter using query
+min_fum = 4000
+df.query('sector == "Equity - Australia" and fum > @min_fum')
 
-In order for us to be aware of the types of data that we are handling, we could use function `dtypes`
+# To select rows, we can use loc, iloc, and slice
 
-```
-df.dtypes
-```
-
-In pandas, the object data type is a general-purpose data type that can hold any kind of Python object. This is the most flexible data type in pandas, but it comes with some trade-offs in terms of performance and memory usage compared to more specific data types like int64, float64, or bool.
-
-To continue to the next section, we want to make sure that we are working with the right data type to ensure smooth dataframe operation. 
-
-```
-df['fum'] = df['fum'].str.replace(',', '')
-df['fum'] = pd.to_numeric(df['fum'], errors = 'coerce')
-
-```
-
-## Selecting and filterings
-
-There are many ways to select and filter dataframe. 
-
-### Selecting columns
-
-Let's start with selecting a subset of data that we want from the dataframe. From the dataset, let's grab the top 5 ticker. Further, we can also access multiple columns by passing a list. Let's grab top 5 tickers and their respective name
-
-```
-df['ticker'].head(5)
-df[['ticker','name']].head(5)
-```
-### Selecting rows
-
-To select rows, we can use loc, iloc, and slice
-
-```
 df.loc[0]
 df.iloc[0]
 df[0:5]
-```
-
-### Filtering
-
-We will discuss the three most common ways filter dataframes.
-
-1. Query
-
-Similar to syntax in SQL or function FILTER in Excel, we can use `query` function from `pandas`. 
-
-Let's do two different examples. First example, we will sector to only include "Equity - Australia".
-Second, we will filter the result to have FUM more than 4b.
 
 ```
-df.query('sector == "Equity - Australia"')
+## Slicing and Indexing
+Slicing and indexing help you access specific parts of the DataFrame using row and column indices.
 
-min_fum = 4000
-df.query('sector == "Equity - Australia" and fum > @min_fum')
+```py
+# Select rows by index
+df.iloc[0:5]  # First 5 rows
+
+# Select rows and columns by index
+df.iloc[0:5, 0:3]  # First 5 rows and first 3 columns
+
+# Select rows and columns by labels
+df.loc[0:5, ['ticker', 'sector']]
 ```
 
-2. Dataframe way
+## Sorting
 
-3. loc function
+Sorting allows you to arrange the data in a DataFrame based on the values in one or more columns.
 
-There are many ways to select and filter dataframe. We will discuss the three most common ways to select and filter dataframe
+```python
+# Sort by a single column
+df_sorted = df.sort_values(by='fum', ascending=False)
 
-Slicing/indexing
+# Sort by multiple columns
+df_sorted = df.sort_values(by=['sector', 'fum'], ascending=[True, False])
+```
 
-Sorting
+## Rename Columns
+Renaming columns helps you change the column names to more meaningful or standardized names.
 
-Rename columns
+```py
+# Rename columns
+df_renamed = df.rename(columns={'fum': 'Funds Under Management', 'mer': 'Management Expense Ratio'})
+```
 
-Reset index
+## Reset Index
+Resetting the index reassigns the row labels to a default integer index, which can be useful after filtering or sorting.
 
-Copying
+```py
+# Reset index
+df_reset = df.reset_index(drop=True)
+```
+
+## Copying
+Copying a DataFrame creates a new DataFrame object with the same data, which can be useful to avoid modifying the original data.
+
+```py
+# Copy DataFrame
+df_copy = df.copy()
+```
+
+This documentation provides a basic overview of DataFrames and common operations you can perform on them using the pandas library in Python. The examples use a sample dataset similar to the one provided in the attached file, which contains financial data of various ETFs (Exchange-Traded Funds)
