@@ -47,7 +47,7 @@ employees:
   - name: Bob
     role: Designer
 ```
-## Comments
+### Comments
 Comments in YAML are denoted by the # symbol.
 
 ```yaml
