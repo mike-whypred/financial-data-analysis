@@ -1,0 +1,332 @@
+ticker,sector,name,mer,fum,fum_change,inflow_outflow,transacted_value,transacted_volume,no_of_trades,monthly_liquidity,spred,last_price,distribution_yield,one_month_return,one_year_return,three_year_return,five_year_returns
+A200,Equity - Australia,Betashares Australia 200 ETF,0.04,4296.27,317.96,301.35,214355402,1719165,14021,0.05,0,127.46,0.04,0.01,0.08,0.12,0.11
+IOZ,Equity - Australia,iShares Core S&P/ASX 200 ETF,0.05,5122.88,296.04,275.6,277699870,9191717,19182,0.05,0,30.84,0.04,0.01,0.08,0.11,0.11
+ILC,Equity - Australia,iShares S&P/ASX 20 ETF,0.24,596.46,12,7.28,25625586,870614,1928,0.04,0,29.95,0.04,0.02,0.1,0.13,0.13
+MVW,Equity - Australia,VanEck Australian Equal Weight ETF,0.35,2098.95,-20.77,21.72,63499076,1830950,5696,0.03,0,35.2,0.04,0,0.07,0.09,0.1
+QOZ,Equity - Australia,Betashares FTSE RAFI Australia 200 ETF,0.4,500.09,5.86,9.99,15187004,1005650,1952,0.03,0,15.44,0.05,0.02,0.1,0.13,0.12
+STW,Equity - Australia,SPDR S&P/ASX 200 ,0.05,4987.77,68.49,10.03,160793439,2394568,8203,0.03,0,68.97,0.04,0.01,0.08,0.11,0.11
+SFY,Equity - Australia,SPDR S&P/ASX 50 ,0.286,807.65,11.01,-2.61,21559817,321794,926,0.03,0,68.42,0.04,0.02,0.1,0.13,0.12
+VAS,Equity - Australia,Vanguard Australian Shares Index ETF,0.07,14584.16,200.17,149.9,526705742,5686560,48813,0.04,0,94.74,0.04,0.01,0.08,0.11,0.11
+VLC,Equity - Australia,Vanguard MSCI Australian Large Companies Index ETF,0.2,230.68,4.55,3.39,11319915,147806,1677,0.05,0,78.26,0.05,0.02,0.1,0.14,0.13
+EX20,Equity - Australia Small/Mid Cap,Betashares Australian Ex-20 Portfolio Diversifier ETF,0.25,251.46,-2.41,0.26,8249143,424013,723,0.03,0,19.78,0.03,0.01,0.05,0.06,0.08
+IMPQ,Equity - Australia Small/Mid Cap,eInvest Better Future Fund (Managed Fund),0.99,44.1,-1.07,-0.32,1613674,336971,272,0.04,0.01,4.77,0.01,-0.02,-0.01,-0.02,n/a
+ISO,Equity - Australia Small/Mid Cap,iShares S&P/ASX Small Ordinaries ETF,0.55,149.85,1.49,2.8,8154712,1842476,555,0.05,0,4.52,0.03,0.01,0.02,0.01,0.06
+KSM,Equity - Australia Small/Mid Cap,K2 Australian Small Cap Fund (Hedge Fund),2.27,10.79,0.63,0.41,593474,259355,48,0.06,0.01,2.31,0,0.02,-0.03,-0.03,0.02
+MVE,Equity - Australia Small/Mid Cap,VanEck S&P/ASX MidCap ETF,0.45,215.17,-9.19,3.59,9427975,265662,951,0.04,0,34.93,0.04,-0.04,-0.02,0.06,0.1
+MVS,Equity - Australia Small/Mid Cap,VanEck Small Companies Masters ETF,0.49,46.8,-0.71,0.05,3115958,166700,345,0.07,0,19.08,0.04,0.01,0.03,0.04,0.05
+SSO,Equity - Australia Small/Mid Cap,SPDR S&P/ASX Small Ordinaries Fund,0.5,26.56,0.24,0.03,1435111,108131,128,0.05,0,13.58,0.02,0.01,0.02,0.02,0.06
+VSO,Equity - Australia Small/Mid Cap,Vanguard MSCI Australian Small Companies Index ETF,0.3,868.9,-7.07,5.35,30634967,491948,4374,0.04,0,63.26,0.03,0,0.02,0.06,0.09
+ATEC,Equity - Australia Sectors,Betashares S&P/ASX Australian Technology ETF,0.48,216.47,8.1,6.41,21557131,1036775,2435,0.1,0,21.12,0.01,0.01,0.25,-0.01,n/a
+MVB,Equity - Australia Sectors,VanEck Australian Banks ETF,0.28,179.17,7.94,-1.28,13332122,428778,860,0.07,0,32.1,0.06,0.05,0.12,0.16,0.11
+MVR,Equity - Australia Sectors,VanEck Australian Resources ETF,0.35,422.59,-35.19,-8.66,24076289,666975,2110,0.06,0,36.26,0.05,-0.03,0.01,0.14,0.12
+OZF,Equity - Australia Sectors,SPDR S&P/ASX 200 Financials ex A-REIT Fund,0.34,137.62,-9.67,-17.16,32028216,1444374,220,0.23,0,22.94,0.04,0.05,0.12,0.15,0.11
+OZR,Equity - Australia Sectors,SPDR S&P/ASX 200 Resources Fund ,0.34,163.19,-30.44,-23.62,35399582,2527726,1244,0.22,0,13.7,0.06,-0.04,0.02,0.17,0.15
+OZXX,Equity - Australia Sectors,Global X Australia Ex Financials & Resources ETF,0.25,3.57,0.04,0,94711,9517,24,0.03,0,10.19,0.01,0.02,n/a,n/a,n/a
+QFN,Equity - Australia Sectors,Betashares Financials Sector ETF ,0.34,50.19,-18.92,-20.77,26186697,2103270,346,0.52,0,13.06,0.03,0.06,0.12,0.14,0.11
+QRE,Equity - Australia Sectors,Betashares Resources Sector ETF ,0.34,218.63,-33.76,-20.03,47247472,5964176,1871,0.22,0,7.82,0.05,-0.03,0.02,0.17,0.15
+AASF,Equity - Australia Strategy,Airlie Australian Share Fund (Managed Fund),0.78,482.14,8.35,8.35,2430737,667582,213,0.01,0,3.75,0.04,0.02,0.09,0.13,n/a
+AQLT,Equity - Australia Strategy,Betashares Australian Quality ETF,0.35,42.81,3.12,2.7,5184184,198832,404,0.12,0,26.7,0.02,0.03,0.12,n/a,n/a
+AUMF,Equity - Australia Strategy,iShares Edge MSCI Australia Multifactor ETF,0.3,60.73,0.67,1.36,2383695,77303,227,0.04,0,31.2,0.04,0.02,0.07,0.08,0.09
+AUST,Equity - Australia Strategy,Betashares Managed Risk Australian Share Fund (Managed Fund),0.49,30.44,-0.45,0.01,1527313,94144,121,0.05,0,16.53,0.04,0.01,0.05,0.06,0.07
+AYLD,Equity - Australia Strategy,Global X S&P/ASX 200 Covered Call ETF,0.6,12.21,2.08,2.04,2125183,211248,134,0.17,0,10.17,0.09,0.01,0.11,n/a,n/a
+BBOZ,Equity - Australia Strategy,Betashares Australian Strong Bear (Hedge Fund),1.38,363.92,6.68,12.56,210142716,67240679,5956,0.58,0,2.99,0,-0.02,-0.08,-0.21,-0.27
+BEAR,Equity - Australia Strategy,Betashares Australian Equities Bear (Hedge Fund),1.48,47.18,2.14,2.42,11407080,1388732,1012,0.24,0,8.07,0,-0.01,-0.01,-0.08,-0.1
+DACE,Equity - Australia Strategy,Dimensional Australian Core Equity (Managed Fund),0.28,4899.01,53.63,28.54,2953751,193895,81,0,0,15.53,0.01,0.01,n/a,n/a,n/a
+DVDY,Equity - Australia Strategy,VanEck Morningstar Australian Moat Income ETF,0.35,76.04,0.69,0.04,4026151,193308,206,0.05,0,21,0.04,0.02,0.05,0.06,n/a
+E200,Equity - Australia Strategy,SPDR S&P/ASX 200 ESG Fund,0.05,42.54,0.3,0.02,3554712,147358,319,0.08,0,24.43,0.05,0.01,0.08,0.12,n/a
+EIGA,Equity - Australia Strategy,eInvest Income Generator Fund (Managed Fund),0.8,33.65,0.7,0.18,790565,211081,295,0.02,0.01,3.84,0.06,0.02,0.07,0.1,0.08
+EINC,Equity - Australia Strategy,Betashares Martin Currie Equity Income Fund (Managed Fund),0.85,22.49,0.27,,791679,95298,83,0.04,0,8.44,0.04,0.02,0.06,0.08,0.09
+FAIR,Equity - Australia Strategy,Betashares Australian Sustainability Leaders ETF,0.49,1397.98,21.69,8.37,44543637,2418675,1656,0.03,0,18.79,0.02,0.03,0.1,0.05,0.07
+GIVE,Equity - Australia Strategy,Perpetual ESG Australian Share Fund (Managed Fund),0.65,5.87,0.57,0.44,479547,160864,53,0.08,0,3.06,0.03,0.03,0.11,n/a,n/a
+GRNV,Equity - Australia Strategy,VanEck MSCI Australian Sustainable Equity ETF,0.35,160.5,1.67,2.43,4788944,169537,1357,0.03,0,28.92,0.03,0.02,0.11,0.09,0.1
+GEAR,Equity - Australia Strategy,Betashares Geared Australian Equity Fund (Hedge Fund),0.8,424.41,-25.68,-25.02,190965329,7354591,5531,0.45,0,27.34,0.03,0.04,0.11,0.21,0.18
+HVST,Equity - Australia Strategy,Betashares Australian Dividend Harvester Fund (Managed Fund),0.72,198.35,3.49,1.5,13261757,1057705,1292,0.07,0,12.83,0.07,0.02,0.08,0.08,0.07
+IMLC,Equity - Australia Strategy,Investors Mutual Concentrated Australian Share Fund (Quoted Managed Fund),0.993,2.49,0.04,0.02,19742,4997,7,0.01,0.01,3.96,0.01,0,n/a,n/a,n/a
+IHD,Equity - Australia Strategy,iShares S&P/ASX Dividend Opportunities ESG Screened ETF,0.23,312.75,-3.81,-6.95,8012118,572811,672,0.03,0,14.25,0.05,0.02,0.12,0.11,0.1
+IIGF,Equity - Australia Strategy,Intelligent Investor Australian Equity Income Fund (Managed Fund),0.97,107.97,-1.52,-1.52,2262688,797310,132,0.02,0.01,2.89,0.05,0,0,0.11,n/a
+INES,Equity - Australia Strategy,Intelligent Investor Ethical Share Fund (Managed Fund),0.97,74.48,-0.64,-0.64,981841,302563,100,0.01,0.01,3.3,0.02,0,0.07,0.07,n/a
+INIF,Equity - Australia Strategy,Intelligent Investor Australian Equity Income Fund (Managed Fund),0.97,81.74,-2.82,-1.6,2182462,803137,108,0.03,0.01,2.73,0.07,-0.01,-0.02,0.12,0.11
+IESG,Equity - Australia Strategy,iShares Core MSCI Australia ESG Leaders ETF,0.09,182.16,8.98,6.84,12668206,463923,1045,0.07,0,27.98,0.03,0.02,0.11,n/a,n/a
+MAAT,Equity - Australia Strategy,Monash Investors Small Companies Trust (Hedge Fund),2.6429,15.34,-1.25,-1.35,380138,443544,57,0.02,0.01,0.86,0.03,0.01,-0.02,n/a,n/a
+MFOA,Equity - Australia Strategy,Milford Australian Absolute Growth Fund (Hedge Fund),0.9,23.73,0.37,0.54,581172,53333,64,0.02,0,10.97,0.02,0,0.1,n/a,n/a
+MVOL,Equity - Australia Strategy,iShares Edge MSCI Australia Minimum Volatility ETF,0.3,19.13,0.09,0.05,334208,11078,29,0.02,0,30.93,0.05,0.04,0.1,0.1,0.09
+RARI,Equity - Australia Strategy,Russell Investments Australian Responsible Investment ETF,0.45,334.96,9.44,1.99,4463513,174701,213,0.01,0,26.38,0.04,0.02,0.09,0.1,0.09
+RDV,Equity - Australia Strategy,Russell Investments High Dividend Australian Shares ETF  ,0.34,249.68,3.22,-2.78,6615148,226167,582,0.03,0,29.9,0.05,0.03,0.08,0.11,0.09
+SMLL,Equity - Australia Strategy,Betashares Australian Small Companies Select Fund (Managed Fund),0.39,85.77,0.34,0.58,2070746,602055,379,0.02,0.01,3.53,0.03,0.02,0.04,0.04,0.08
+SWTZ,Equity - Australia Strategy,Switzer Dividend Growth Fund (Quoted Managed Fund),0.89,62.81,-0.7,-1.43,1520920,589241,134,0.02,0.01,2.62,0.04,0.02,0.05,0.09,0.09
+SYI,Equity - Australia Strategy,SPDR MSCI Australia Select High Dividend Yield Fund ,0.2,445.73,4.25,-2.54,24076216,865407,5873,0.05,0,28.42,0.05,0.02,0.06,0.12,0.11
+VETH,Equity - Australia Strategy,Vanguard Ethically Conscious Australian Shares ETF,0.17,388.95,3.36,0.67,9385957,162634,2257,0.02,0,59.11,0.04,0.02,0.08,0.09,n/a
+VHY,Equity - Australia Strategy,Vanguard Australian Shares High Yield ETF,0.25,3473.42,47.24,6.03,116242035,1664725,10657,0.03,0,71.51,0.05,0.02,0.1,0.15,0.14
+YMAX,Equity - Australia Strategy,Betashares Australia Top20 Equity Yield Maximiser Fund (Managed Fund),0.76,461.69,-3.46,-0.48,20255224,2654437,1426,0.04,0,7.75,0.08,0.01,0.1,0.13,0.1
+ZYAU,Equity - Australia Strategy,Global X S&P/ASX 200 High Dividend ETF,0.24,65.98,1.54,0.04,3286611,384702,406,0.05,0,8.75,0.07,0.02,0.08,0.06,0.03
+BAOR,Equity - Global,Aoris International Fund (Class B) (Unhedged) (Managed Fund),1.1,18.86,2.45,1.49,1817487,799307,79,0.1,0.01,2.36,0,0.06,n/a,n/a,n/a
+BGBL,Equity - Global,Betashares Global Shares ETF,0.08,728.16,232.39,203.45,243666354,4178011,1591,0.33,0,59.66,0,0.06,n/a,n/a,n/a
+DAOR,Equity - Global,Aoris International Fund (Class D) (Hedged) (Managed Fund),1.15,29.34,2.1,1.6,1589004,978506,106,0.05,0,1.66,0,0.02,n/a,n/a,n/a
+DFGH,Equity - Global,Dimensional Global Core Equity AUD Hedged (Managed Fund),0.36,2548.27,37.92,5.46,450189,15047,30,0,0,30.55,0,0.01,n/a,n/a,n/a
+DGCE,Equity - Global,Dimensional Global Core Equity Unhedged (Managed Fund),0.36,3785.92,161.08,8.19,780758,33634,90,0,0,23.72,0.01,0.05,n/a,n/a,n/a
+F100,Equity - Global,Betashares FTSE 100 ETF,0.45,375.22,5.17,2.51,10522880,955895,2085,0.03,0,11.2,0.03,0.02,0.13,0.12,n/a
+H100,Equity - Global,Betashares FTSE 100 Currency Hedged ETF,0.48,2.57,-0.08,,229973,22496,21,0.09,0,10.28,0.02,-0.01,n/a,n/a,n/a
+ESGI,Equity - Global,Vaneck MSCI International Sustainable Equity ETF,0.55,181.5,12.74,,4905799,149669,627,0.03,0,34.05,0.03,0.08,0.25,0.13,0.13
+ESTX,Equity - Global,Global X EURO STOXX 50 ETF,0.35,103.79,4.85,0.03,5225304,62632,500,0.05,0,86.1,0.04,0.05,0.22,0.13,0.11
+HEUR,Equity - Global,Betashares Europe ETF - Currency Hedged,0.56,47.58,1.2,,1187786,87255,212,0.03,0,13.84,0,0.03,0.12,0.1,0.09
+HGBL,Equity - Global,Betashares Global Shares Currency Hedged ETF,0.11,556.51,201.67,192.9,202068500,3595888,1428,0.36,0,57.58,0.01,0.03,n/a,n/a,n/a
+HNDQ,Equity - Global,Betashares NASDAQ 100 ETF - Currency Hedged,0.51,366.47,12.47,3.62,39969139,1132120,1917,0.11,0,36.08,0,0.03,0.43,0.08,n/a
+IEU,Equity - Global,iShares Europe ETF,0.58,720.33,25.01,2.75,19710273,252277,2667,0.03,0,79.92,0.03,0.04,0.18,0.11,0.09
+IHOO,Equity - Global,iShares Global 100 AUD Hedged ETF,0.43,371.4,12.8,,9979657,66527,647,0.03,0,152.58,0.01,0.04,0.24,0.11,0.14
+IHVV,Equity - Global,iShares S&P 500 AUD Hedged ETF,0.1,1521.16,51.83,14.08,65986813,1483037,3842,0.04,0,45.51,0.01,0.03,0.21,0.09,0.12
+IHWL,Equity - Global,iShares Core MSCI World ex Australia ESG Leaders (AUD Hedged) ETF,0.13,287.29,13.25,5.13,18684382,419126,1277,0.07,0,45.83,0.04,0.04,0.25,0.1,0.11
+IJH,Equity - Global,iShares S&P Midcap ETF,0.07,278.55,11.5,3.32,12115836,295209,1171,0.04,0,42.4,0.01,0.03,0.17,0.13,0.12
+IJR,Equity - Global,iShares S&P Small-Cap ETF,0.07,499.71,13.82,7.07,16362381,102897,1779,0.03,0,163.37,0.01,0.02,0.15,0.1,0.11
+IOO,Equity - Global,iShares Global 100 ETF,0.4,3167.22,213.11,11.24,69845382,575409,12834,0.02,0,125.38,0.02,0.07,0.34,0.17,0.17
+IVE,Equity - Global,iShares MSCI EAFE ETF,0.31,447.4,6.18,-7.26,21954333,195726,998,0.05,0,114.29,0.03,0.04,0.17,0.09,0.08
+IVV,Equity - Global,iShares S&P 500 ETF,0.04,6929.53,471.92,55.97,222663641,4612099,26510,0.03,0,49.74,0.01,0.07,0.33,0.17,0.17
+IWLD,Equity - Global,iShares Core MSCI World ex Australia ESG Leaders ETF,0.1,814.18,54.45,5.96,27325095,554440,2437,0.03,0,50.83,0.02,0.07,0.34,0.16,0.15
+N100,Equity - Global,Global X US 100 ETF,0.24,15.88,4.21,3.4,4344960,390396,698,0.27,0,11.34,0,0.07,n/a,n/a,n/a
+NDQ,Equity - Global,Betashares NASDAQ 100 ETF,0.48,4070.57,289.66,36.46,205698141,5289158,30434,0.05,0,39.99,0.02,0.07,0.57,0.16,0.23
+QUS,Equity - Global,Betashares S&P 500 Equal Weight ETF ,0.29,301.86,21.12,11.14,14443731,320910,2163,0.05,0,46.05,0.03,0.04,0.15,0.15,0.12
+SPY,Equity - Global,SPDR S&P 500 ETF Trust,0.0945,184.15,11.51,,11541835,15964,1426,0.06,0,744.3,0.01,0.07,0.33,0.17,0.17
+VEU,Equity - Global,Vanguard All-World ex US Shares Index ETF,0.08,2850.19,105.1,27.64,102316724,1222652,7927,0.04,0,84.54,0.03,0.03,0.14,0.06,0.08
+VEQ,Equity - Global,Vanguard FTSE Europe Shares ETF,0.35,193.51,6.26,1.57,9819969,145336,1619,0.05,0,69.13,0.03,0.03,0.17,0.1,0.09
+VGAD,Equity - Global,Vanguard MSCI Index International Shares (Hedged) ETF,0.21,2786.36,-47.64,-115.42,268191054,2909499,7818,0.1,0,94.61,0,0.02,0.19,0.08,0.11
+VGS,Equity - Global,Vanguard MSCI Index International Shares ETF,0.18,6936.44,445.98,98.48,236538737,2089703,26298,0.03,0,116.49,0.02,0.06,0.28,0.14,0.14
+VTS,Equity - Global,Vanguard US Total Market Shares Index ETF,0.03,4029.2,256.63,21.49,81290707,226791,11104,0.02,0,370.54,0.01,0.06,0.32,0.15,0.16
+WRLD,Equity - Global,Betashares Managed Risk Global Share Fund (Managed Fund),0.54,49.63,2.27,-0.86,1523259,91198,150,0.03,0,17.11,0,0.06,0.21,0.11,0.1
+WXHG,Equity - Global,SPDR World ex Australia Carbon Control (Hedged) Fund,0.21,237.56,8.35,2.36,5368189,231412,418,0.02,0,23.55,0.06,0.03,0.21,0.08,0.1
+WXOZ,Equity - Global,SPDR S&P World ex Australia Carbon Control Fund,0.18,368.17,29.32,9.22,3748379,91020,249,0.01,0,42.68,0.04,0.06,0.29,0.13,0.13
+ASAO,Equity - Asia,abrdn Sustainable Asian Opportunities Active ETF (Managed Fund),1.18,0.97,-0.02,,34625,35286,7,0.04,0.01,0.99,0.03,0.01,-0.1,n/a,n/a
+ASIA,Equity - Asia,Betashares Asia Technology Tigers ETF,0.67,447.34,-6.37,-1,29368609,3924859,5399,0.07,0,7.51,0.01,-0.01,0.01,-0.14,0.08
+CETF,Equity - Asia,VanEck FTSE China A50 ETF,0.6,20.26,3.22,3.24,3549330,76965,421,0.18,0,46.26,0.03,0,-0.19,-0.13,0.01
+CNEW,Equity - Asia,VanEck China New Economy ETF,0.95,100.2,-7.61,-1.2,7635231,1215706,993,0.08,0,6.02,0.02,-0.06,-0.18,-0.11,0.05
+EAFZ,Equity - Asia,Ellerston Asia Growth Fund (Hedge Fund),0.75,39.33,-1.14,-0.94,812393,138459,36,0.02,0,5.91,0,0,n/a,n/a,n/a
+HJPN,Equity - Asia,Betashares Japan ETF - Currency Hedged,0.56,109.17,13.98,5.63,21652700,1183991,2022,0.2,0,18.73,0.03,0.09,0.38,0.14,0.14
+IAA,Equity - Asia,iShares Asia 50 ETF,0.51,652.83,-6.58,15.49,50207756,609622,6585,0.08,0,82.59,0.02,-0.02,-0.08,-0.11,0.02
+IJP,Equity - Asia,iShares MSCI Japan ETF,0.5,579.87,47.73,10.26,34923460,356525,3851,0.06,0,100.96,0.02,0.08,0.24,0.06,0.08
+IKO,Equity - Asia,iShares MSCI South Korea ETF,0.59,179.77,-11.07,0.83,11638885,123458,1653,0.06,0,93.98,0.01,-0.06,0.02,-0.07,0.02
+IIND,Equity - Asia,Betashares India Quality ETF,0.8,117.29,10.01,6.94,11034753,962199,1909,0.09,0,11.49,0.04,0.03,0.25,0.1,n/a
+IZZ,Equity - Asia,iShares China Large-Cap ETF,0.77,267.01,-6.24,13.35,37910506,1122502,5341,0.14,0,33.01,0.03,-0.05,-0.25,-0.18,-0.09
+NDIA,Equity - Asia,Global X India Nifty 50 ETF,0.69,92.76,9.53,6.37,9696496,138442,1649,0.1,0,70.72,0.02,0.04,0.27,0.15,n/a
+VAE,Equity - Asia,Vanguard FTSE Asia Ex-Japan Shares Index ETF,0.4,313.79,-4.65,0.18,12869529,194631,2315,0.04,0,65.59,0.02,-0.01,-0.01,-0.05,0.03
+EMKT,Equity - Emerging Markets,Vaneck MSCI Multifactor Emerging Markets Equity ETF,0.69,82.16,2.74,,2394977,110347,526,0.03,0,22.15,0.05,0.03,0.21,0.05,0.07
+EMMG,Equity - Emerging Markets,Betashares Martin Currie Emerging Markets Fund (Managed Fund),1,132.41,-1.59,0.79,2363049,426489,539,0.02,0,5.53,0.01,-0.02,-0.02,-0.08,n/a
+IEM,Equity - Emerging Markets,iShares MSCI Emerging Markets ETF,0.69,892.23,-5.87,9.39,23111868,395312,5502,0.03,0,58.43,0.02,0,0.02,-0.04,0.02
+FEMX,Equity - Emerging Markets,Fidelity Global Emerging Markets Fund (Managed Fund),0.99,203.75,-6.5,-0.78,6273932,1090131,1043,0.03,0,5.72,0.01,-0.03,-0.04,-0.04,0.06
+VGE,Equity - Emerging Markets,Vanguard FTSE Emerging Markets Shares ETF,0.48,736.66,3.3,10.81,26528946,398269,4681,0.04,0,66.67,0.03,0.01,0.04,-0.02,0.04
+WEMG,Equity - Emerging Markets,SPDR S&P Emerging Markets Carbon Control Fund,0.65,18.66,0.17,,789272,37228,327,0.04,0,21.34,0.03,0.01,0.05,-0.03,0.03
+ACDC,Equity - Global Sectors,Global X Battery Tech & Lithium ETF,0.69,546.49,-29.6,1.67,25970929,309787,5258,0.05,0,83.3,0.04,-0.05,-0.06,0.03,0.16
+ATOM,Equity - Global Sectors,Global X Uranium ETF,0.69,19.42,5.21,3.24,5223301,331076,699,0.27,0.01,16.18,0,0.14,0.48,n/a,n/a
+BUGG,Equity - Global Sectors,Global X Cybersecurity ETF,0.51,3.52,2.44,2.35,1056228,92370,212,0.3,0,11.73,0,0.08,n/a,n/a,n/a
+BNKS,Equity - Global Sectors,Betashares Global Banks ETF - Currency Hedged,0.57,39.76,-0.01,0.05,2179247,335454,269,0.05,0,6.68,0.02,0.02,0.05,0.1,0.03
+CLDD,Equity - Global Sectors,Betashares Cloud Computing ETF,0.67,52.2,-0.39,-2.73,4328272,324786,621,0.08,0,13.65,0,0.05,0.4,0,n/a
+CLNE,Equity - Global Sectors,VanEck Global Clean Energy ETF,0.65,90.49,-17.49,-6.11,8360221,1176511,907,0.09,0,6.79,0.02,-0.11,-0.23,n/a,n/a
+CRYP,Equity - Global Sectors,Betashares Crypto Innovators ETF,0.67,104.81,-27.42,5.97,44067540,10807560,6519,0.42,0,3.74,0,-0.25,0.82,n/a,n/a
+CURE,Equity - Global Sectors,Global X S&P Biotech ETF,0.45,40.61,0.14,-0.94,2201316,47770,391,0.05,0.01,47,0,0.03,0.11,-0.11,0.04
+DRIV,Equity - Global Sectors,Betashares Electric Vehicles and Future Mobility ETF,0.67,13.12,-0.57,0.42,1154503,136063,394,0.09,0,8.34,0.01,-0.07,0,n/a,n/a
+DRUG,Equity - Global Sectors,Betashares Global Healthcare ETF - Currency Hedged,0.57,162.53,5.79,0.05,3934043,482659,1010,0.02,0,8.2,0,0.04,0.08,0.07,0.09
+EDOC,Equity - Global Sectors,Betashares Digital Health and Telemedicine ETF,0.67,1.49,-0.05,,271435,28890,90,0.18,0,9.29,0,-0.03,-0.13,n/a,n/a
+ESPO,Equity - Global Sectors,VanEck Video Gaming and Esports ETF,0.55,67.55,2.99,,3538322,329781,706,0.05,0,10.86,0.01,0.05,0.29,-0.01,n/a
+FANG,Equity - Global Sectors,Global X FANG+ ETF,0.35,465.02,53.92,20.43,65625799,2970082,6210,0.14,0,22.7,0,0.08,0.89,0.18,n/a
+FOOD,Equity - Global Sectors,Betashares Global Agriculture Companies ETF,0.57,106.87,-4.58,0.05,3215969,493769,852,0.03,0,6.47,0.01,-0.03,-0.1,0.04,0.05
+FUEL,Equity - Global Sectors,Betashares Global Energy Companies ETF - Currency Hedged,0.57,170.38,-6.46,-4.22,46325599,7479896,2890,0.27,0,6.24,0.02,0.01,0,0.22,0.05
+GAME,Equity - Global Sectors,Betashares Video Games and Esports ETF,0.57,1.99,0.03,,170071,18047,88,0.09,0,9.47,0,0.02,0.07,n/a,n/a
+GDX,Equity - Global Sectors,VanEck Gold Miners ETF,0.53,428.39,-26.1,3.9,28534846,652107,1890,0.07,0,43.3,0.02,-0.07,-0.04,0,0.08
+GMTL,Equity - Global Sectors,Global X Green Metal Miners ETF,0.69,2.45,-0.26,,258184,34189,59,0.11,0,7.15,0.01,-0.08,-0.34,n/a,n/a
+HACK,Equity - Global Sectors,Betashares Global Cybersecurity ETF,0.67,924.72,86.02,2.38,35549176,3145793,7923,0.04,0,11.91,0,0.1,0.54,0.15,0.2
+HGEN,Equity - Global Sectors,Global X Hydrogen ETF,0.69,35.75,-3.35,0,2125974,420483,749,0.06,0,5.02,0,-0.09,-0.34,n/a,n/a
+HLTH,Equity - Global Sectors,VanEck Global Healthcare Leaders ETF,0.45,57.18,2.6,,4196272,396377,314,0.07,0,10.78,0.01,0.05,0.06,0.02,n/a
+IBUY,Equity - Global Sectors,Betashares Online Retail and E-Commerce ETF,0.67,1.26,0.03,,164347,15368,71,0.13,0,10.98,0,0.02,0.11,n/a,n/a
+IEAT,Equity - Global Sectors,Betashares Future of Food ETF,0.67,3.56,1.5,1.53,123693,12216,75,0.03,0,10.14,0.01,-0.01,-0.07,n/a,n/a
+IPAY,Equity - Global Sectors,Betashares Future of Payments ETF,0.67,1.78,0.01,,742741,72713,73,0.42,0,10.49,0,0.01,0.2,n/a,n/a
+ITEK,Equity - Global Sectors,iShares Future Tech Innovators ETF,0.56,3.71,0.54,0.53,1505725,57686,126,0.41,0,26.5,0,0.01,0.1,n/a,n/a
+IXI,Equity - Global Sectors,iShares Global Consumer Staples ETF,0.4,142.17,4.77,0.05,7261334,82288,786,0.05,0,90.35,0.03,0.05,0.1,0.09,0.09
+IXJ,Equity - Global Sectors,iShares Global Healthcare ETF,0.4,1273.03,74.89,0.96,27575752,208261,4221,0.02,0,134.21,0.01,0.07,0.15,0.11,0.12
+MHOT,Equity - Global Sectors,VanEck Morningstar Wide Moat (AUD Hedged) ETF,0.52,12.68,-0.07,,4542347,36176,107,0.36,0,126.68,0,-0.01,n/a,n/a,n/a
+MNRS,Equity - Global Sectors,Betashares Global Gold Miners ETF - Currency Hedged,0.57,63.71,-6,0.99,3358013,670708,539,0.05,0,4.85,0.01,-0.1,-0.16,-0.06,0.07
+MTAV,Equity - Global Sectors,Betashares Metaverse ETF,0.69,3.77,0.47,0.34,490616,36521,249,0.13,0,13.75,0,0.04,0.48,n/a,n/a
+RBTZ,Equity - Global Sectors,Betashares Global Robotics and Artificial Intelligence ETF,0.57,225,13.22,1.34,10446947,807265,2695,0.05,0,13.36,0,0.06,0.33,0,0.12
+ROBO,Equity - Global Sectors,Global X ROBO Global Robotics & Automation ETF,0.69,240.47,0.79,-1.49,6294733,85900,920,0.03,0,74.42,0.01,0.01,0.15,0,0.12
+ROYL,Equity - Global Sectors,Betashares Global Royalties ETF,0.69,6.16,0.02,0,917743,107409,94,0.15,0,8.6,0.05,0.01,-0.02,n/a,n/a
+SEMI,Equity - Global Sectors,Global X Semiconductor ETF,0.57,153.97,18.79,8.62,19019786,1359622,3747,0.12,0,14.3,0.01,0.08,0.66,n/a,n/a
+TANN,Equity - Global Sectors,Betashares Solar ETF,0.69,2.82,-0.51,0,235724,28881,152,0.08,0,8.05,0,-0.15,-0.35,n/a,n/a
+TECH,Equity - Global Sectors,Global X Morningstar Global Technology ETF,0.45,341.72,6.22,-2.01,11678614,117955,1126,0.03,0,101.11,0,0.02,0.33,0.07,0.17
+URNM,Equity - Global Sectors,Betashares Global Uranium ETF,0.69,117.88,29.04,12.41,38472488,3822396,3989,0.33,0,10.34,0,0.19,0.66,n/a,n/a
+WIRE,Equity - Global Sectors,Global X Copper Miners ETF,0.65,152.19,2.35,3.4,12795498,1155939,1400,0.08,0,11.25,0.01,-0.01,-0.02,n/a,n/a
+XMET,Equity - Global Sectors,Betashares Energy Transition Metals ETF,0.69,18.53,-4.15,-2.05,4094242,573702,347,0.22,0,6.86,0.01,-0.08,-0.2,n/a,n/a
+ADEF,Equity - Global Strategy,Apostle Dundas Global Equity Fund - Class D Units (Managed Fund),0.9,15.74,0.99,0.2,576841,110834,41,0.04,0,5.37,0,0.03,0.25,0.11,n/a
+AGX1,Equity - Global Strategy,Antipodes Global Shares (Quoted Managed Fund),1.1,334.5,9.45,-0.86,4981077,917276,218,0.01,0,5.53,0,0.03,0.13,0.08,0.09
+BBUS,Equity - Global Strategy,Betashares US Equities Strong Bear Currency Hedged (Hedge Fund),1.38,202.25,-8.54,0.98,85053183,12370382,2368,0.42,0,6.55,0,-0.05,-0.33,-0.23,-0.32
+CFLO,Equity - Global Strategy,Betashares Global Cash Flow Kings ETF,0.4,12.37,4.18,3.65,6971892,443087,435,0.56,0,16.19,0,0.07,n/a,n/a,n/a
+ERTH,Equity - Global Strategy,Betashares Climate Change Innovation ETF,0.65,110.53,-40.54,-26.66,29614909,3437182,1046,0.27,0,8.6,0,-0.09,-0.13,n/a,n/a
+ETHI,Equity - Global Strategy,Betashares Global Sustainability Leaders ETF,0.59,2945.4,229.44,17.62,100472248,7433854,11490,0.03,0,13.96,0.04,0.08,0.31,0.14,0.19
+FATP,Equity - Global Strategy,Fat Prophets Global High Conviction Hedge Fund,1.77,3.7,-0.06,-0.05,141997,118591,7,0.04,0.01,1.2,0.01,0,0,n/a,n/a
+FDEM,Equity - Global Strategy,Fidelity Global Demographics Fund (Managed Fund),0.89,105.09,2.89,-2.01,98144,3618,25,0,0,28.2,0.01,0.05,0.22,n/a,n/a
+FUTR,Equity - Global Strategy,Janus Henderson Global Sustainable Active ETF (Managed Fund),0.8,1.1,0.05,0,17170,549,15,0.02,0.01,31.42,0.01,0.04,0.24,n/a,n/a
+GGUS,Equity - Global Strategy,Betashares Geared US Equity Fund Currency Hedged (Hedge Fund),0.8,192.48,9.17,,28211016,922165,2048,0.15,0,31.91,0,0.05,0.45,0.12,0.19
+GLOB,Equity - Global Strategy,Barrow Hanley Global Share Fund (Managed Fund),0.99,261.43,6.89,3.39,6282309,1437051,729,0.02,0,4.42,0.06,0.02,0.13,n/a,n/a
+GOAT,Equity - Global Strategy,VanEck Morningstar International Wide Moat ETF,0.55,39.38,0.99,,1605394,60174,182,0.04,0,27.05,0.01,0.03,0.15,0.11,n/a
+GPEQ,Equity - Global Strategy,VanEck Global Listed Private Equity ETF,0.92,21.39,0.93,,2595719,133568,227,0.12,0,20.24,0.03,0.05,0.39,n/a,n/a
+HETH,Equity - Global Strategy,Betashares Global Sustainability Leaders ETF - Currency Hedged,0.62,422.16,14.53,-2.65,13292561,1016633,958,0.03,0,13.36,0.04,0.05,0.22,0.08,n/a
+HQLT,Equity - Global Strategy,Betashares Global Quality Leaders ETF - Currency Hedged,0.38,55.31,1.97,0.01,3060071,112153,203,0.06,0,27.76,0,0.04,0.28,0.08,n/a
+HVLU,Equity - Global Strategy,VanEck MSCI International Value (AUD Hedged) ETF,0.43,2.6,0.04,,24668,957,6,0.01,0,25.83,0,0.01,n/a,n/a,n/a
+HYGG,Equity - Global Strategy,Hyperion Global Growth Companies Fund (Managed Fund),0.7,2463.13,112.85,-13.91,25640848,5635020,1855,0.01,0,4.69,0,0.05,0.6,n/a,n/a
+IISV,Equity - Global Strategy,Intelligent Investor Select Value Share Fund (Managed Fund),0.97,32.08,1.07,0.44,494327,166593,74,0.02,0.01,3.02,0,0.02,n/a,n/a,n/a
+INCM,Equity - Global Strategy,Betashares Global Income Leaders ETF,0.45,27.26,0.67,0.02,1346722,85610,144,0.05,0,15.98,0.04,0.03,0.06,0.13,0.06
+ISLM,Equity - Global Strategy,Hejaz Equities Fund (Managed Fund),1.89,85.36,-1.02,-1.02,10399,10997,31,0,0.01,0.96,0,0.01,0.05,n/a,n/a
+JEPI,Equity - Global Strategy,JPMorgan Equity Premium Income Active ETF (Managed Fund),0.4,66.27,6.69,3.37,4065772,80042,537,0.06,0,51.77,0.07,0.06,0.18,n/a,n/a
+JHPI,Equity - Global Strategy,JPMorgan Equity Premium Income Active ETF (Managed Fund) (Hedged),0.4,1.8,0.54,0.51,166016,3291,10,0.09,0.01,50.54,0.05,0.01,n/a,n/a,n/a
+JPEQ,Equity - Global Strategy,JPMorgan US 100Q Equity Premium Income Active ETF (Managed Fund),0.4,21.66,20.35,20.25,402710,7436,131,0.02,0.01,56.25,0.06,0.08,n/a,n/a,n/a
+JPHQ,Equity - Global Strategy,JPMorgan US 100Q Equity Premium Income Active ETF (Managed Fund) (Hedged),0.4,1.38,0.04,,33186,621,6,0.02,0.01,54.92,0.06,0.03,n/a,n/a,n/a
+JREG,Equity - Global Strategy,JPMorgan Global Research Enhanced Index Equity Active ETF (Managed Fund),0.3,13.27,1.04,0.32,460196,7257,20,0.03,0.01,64.59,0.01,0.06,0.3,n/a,n/a
+JRHG,Equity - Global Strategy,JPMorgan Global Research Enhanced Index Equity Hedged Active ETF (Managed Fund),0.3,1.93,0.6,0.55,35674,673,4,0.02,0.01,54.14,0,0.02,n/a,n/a,n/a
+JZRO,Equity - Global Strategy,Janus Henderson Net Zero Active ETF (Managed Fund),0.85,1.62,0,,102887,3862,32,0.06,0,26.96,0.01,0,-0.02,n/a,n/a
+L1IF,Equity - Global Strategy,L1 Capital International Fund (Managed Fund),1.2,205.47,17.13,1.98,2361867,442147,66,0.01,0.01,5.51,0,0.08,n/a,n/a,n/a
+LNAS,Equity - Global Strategy,Global X Ultra Long Nasdaq 100 Hedge Fund,1,71.89,4.47,1.48,145265558,15272996,2201,2.02,0,9.89,0.06,0.05,1.08,0.07,n/a
+LPGD,Equity - Global Strategy,Loftus Peak Global Disruption Fund (Managed Fund),1.2,337,30.07,3.88,2729519,695493,336,0.01,0,4.07,0,0.09,0.61,0.11,n/a
+LSGE,Equity - Global Strategy,Loomis Sayles Global Equity Fund (Quoted Managed Fund),0.99,45.01,2.86,-0.23,358149,128281,31,0.01,0.01,2.92,0,0.08,0.34,n/a,n/a
+MAET,Equity - Global Strategy,Munro Global Growth Fund (Hedge Fund),1.35,183.61,12.27,0.42,4297984,826647,249,0.02,0,5.41,0,0.07,0.25,0.03,n/a
+MCCL,Equity - Global Strategy,Munro Climate Change Leaders Fund (Managed Fund),0.9,34.21,1.73,-0.02,614728,58048,85,0.02,0.01,10.73,0,0.04,0.21,n/a,n/a
+MCGG,Equity - Global Strategy,Munro Concentrated Global Growth Fund (Managed Fund),0.7,3.17,1.09,0.88,943972,81786,67,0.3,0.01,11.69,0.01,0.1,0.37,n/a,n/a
+MGOC,Equity - Global Strategy,Magellan Global Fund - Open Class Units (Managed Fund),1.35,6366.41,308.74,-71.26,39404471,14363035,1527,0.01,0,2.88,0.04,0.08,0.3,0.09,n/a
+MHG,Equity - Global Strategy,Magellan Global Equities Fund Currency Hedged (Managed Fund),1.35,110.94,0.9,-1.97,3629906,1060644,216,0.03,0,3.55,0.04,0.05,0.2,0.04,0.08
+MHHT,Equity - Global Strategy,Magellan High Conviction Trust (Managed Fund),1.5,460.72,23.11,-3.18,8296136,4886061,378,0.02,0,1.77,0.03,0.07,0.4,n/a,n/a
+MKAX,Equity - Global Strategy,Montaka Global Extension Fund (Quoted Managed Hedge Fund),1.25,52.69,4.75,1.68,896140,296448,100,0.02,0.01,3.32,0.04,0.09,0.55,0.05,n/a
+MOAT,Equity - Global Strategy,VanEck Morningstar Wide Moat ETF,0.49,833.81,49.6,21.5,41151310,342371,6046,0.05,0,122.85,0.07,0.04,0.29,0.18,0.17
+MOGL,Equity - Global Strategy,Montaka Global Equities Fund (Managed Fund),1.32,91.16,6.61,2.03,2038055,552936,97,0.02,0.01,3.89,0.04,0.08,0.51,0.1,0.09
+MQWS,Equity - Global Strategy,Macquarie Walter Scott Global Equity Active ETF (Managed Fund),1.28,0.82,-0.21,-0.27,1932462,181882,30,2.37,0,10.89,0,0.06,n/a,n/a,n/a
+MSTR,Equity - Global Strategy,Morningstar International Shares Active ETF (Managed Fund),0.39,185.17,4.63,1.85,5540875,609576,1046,0.03,0,9.23,0.06,0.02,0.11,0.08,n/a
+NNUK,Equity - Global Strategy,Nanuk New World Fund (Managed Fund),1.1,757.6,32.87,-1.45,2072150,1136233,152,0,0.01,1.88,0,0.05,0.21,n/a,n/a
+PAXX,Equity - Global Strategy,Platinum Asia Fund (Quoted Managed Hedge Fund),1.1,87.67,-2.63,-1.29,2425274,610160,178,0.03,0.01,3.98,0.02,-0.01,-0.07,-0.06,0.05
+PGTX,Equity - Global Strategy,Platinum Global Transition Fund (Quoted Managed Hedge Fund),1.025,13.81,0.29,-0.03,32372,30616,16,0,0.01,1.07,0,0.02,0.01,n/a,n/a
+PIXX,Equity - Global Strategy,Platinum International Fund (Quoted Managed Hedge Fund),1.1,303.81,0.78,-1.18,8681684,1864237,483,0.03,0,4.67,0.07,0.01,0.01,0.06,0.07
+QHAL,Equity - Global Strategy,VanEck MSCI World Ex-Australia Quality (Hedged) ETF,0.43,932.9,51.25,13.96,40403510,952273,3089,0.04,0,43.61,0.01,0.04,0.3,0.1,n/a
+QHSM,Equity - Global Strategy,VanEck MSCI International Small Companies Quality (AUD Hedged) ETF,0.62,21.94,5.52,5.48,9783724,366391,287,0.45,0,27.42,0,0,n/a,n/a,n/a
+QLTY,Equity - Global Strategy,Betashares Global Quality Leaders ETF,0.35,463.65,32,2.2,14650649,548919,1961,0.03,0,27.72,0.01,0.07,0.37,0.13,0.16
+QMAX,Equity - Global Strategy,Betashares NASDAQ 100 Yield Maximiser Fund (Managed Fund),0.68,8.36,0.48,0.01,948764,38244,245,0.11,0,25.44,0.06,0.08,0.47,n/a,n/a
+QMIX,Equity - Global Strategy,SPDR MSCI World Quality Mix Fund,0.18,53.98,4.35,1.46,1878338,67038,187,0.03,0,28.78,0.03,0.06,0.25,0.15,0.13
+QSML,Equity - Global Strategy,VanEck MSCI International Small Companies Quality ETF,0.59,408.03,37.06,22.99,22031672,846561,2081,0.05,0,26.82,0.01,0.04,0.29,n/a,n/a
+QUAL,Equity - Global Strategy,VanEck MSCI International Quality ETF,0.4,4892.73,425.89,85.28,153580152,3133351,8858,0.03,0,50.53,0.01,0.08,0.4,0.16,0.18
+QYLD,Equity - Global Strategy,Global X Nasdaq 100 Covered Call ETF,0.6,5.09,1.39,1.17,1118911,96195,88,0.22,0,11.66,0.07,0.06,0.25,n/a,n/a
+S3GO,Equity - Global Strategy,Firetrail S3 Global Opportunities Fund (Managed Fund),0.72,11.63,0.67,0.14,388677,73862,32,0.03,0,5.4,0,0.05,0.22,n/a,n/a
+SNAS,Equity - Global Strategy,Global X Ultra Short Nasdaq 100 Hedge Fund,1,57.06,6.25,9.21,90651675,46983162,1804,1.59,0,1.86,0,-0.06,-0.59,-0.32,n/a
+T3MP,Equity - Global Strategy,JPMorgan Climate Change Solutions Active ETF (Managed Fund),0.55,1.33,0.02,,3763,72,5,0,0,53.41,0.01,0.02,n/a,n/a,n/a
+UMAX,Equity - Global Strategy,Betashares S&P 500 Yield Maximiser Fund (Managed Fund),0.79,166.29,10.48,1.34,6253254,285421,1114,0.04,0,22.56,0.05,0.07,0.27,0.14,0.11
+UYLD,Equity - Global Strategy,Global X S&P 500 Covered Call ETF,0.6,1.19,0.06,0,422915,39807,64,0.36,0,10.78,0.07,0.06,0.16,n/a,n/a
+VESG,Equity - Global Strategy,Vanguard Ethically Conscious International Shares Index ETF,0.18,791.04,48.79,6.17,21134497,262526,3764,0.03,0,83.05,0.02,0.06,0.31,0.12,0.14
+VISM,Equity - Global Strategy,Vanguard MSCI International Small Companies Index ETF,0.33,294.83,6.93,3.39,9250225,155064,1795,0.03,0,60.88,0.03,0.02,0.14,0.07,0.1
+VMIN,Equity - Global Strategy,Vanguard Global Minimum Volatility Active ETF (Managed Fund),0.28,17.95,0.81,0.28,1581708,28503,127,0.09,0,56.5,0,0.03,0.09,0.04,0.05
+VNGS,Equity - Global Strategy,Vanughan Nelson Global SMID Fund (Quoted Managed Fund),1.12,11.94,0.38,0.09,89705,31827,3,0.01,0.01,2.83,0,0.02,0.1,n/a,n/a
+VVLU,Equity - Global Strategy,Vanguard Global Value Equity Active ETF (Managed Fund),0.29,544.3,19.09,3.81,17853251,270169,3032,0.03,0,68.25,0.06,0.04,0.19,0.19,0.11
+WCMQ,Equity - Global Strategy,WCM Quality Global Growth Fund (Quoted Managed Fund),1.35,328.66,17.27,-4.73,8723119,1101550,562,0.03,0,8.18,0,0.07,0.31,0.06,0.14
+WDIV,Equity - Global Strategy,SPDR S&P Global Dividend Fund,0.35,359.69,8.47,0.32,9865481,549106,1044,0.03,0,18.08,0.05,0.02,0.08,0.09,0.05
+WDMF,Equity - Global Strategy,iShares Edge MSCI World Multifactor ETF,0.35,156.71,8.49,0.05,1310517,32867,99,0.01,0,40.57,0.02,0.06,0.19,0.12,0.1
+WVOL,Equity - Global Strategy,iShares Edge MSCI World Minimum Volatility ETF,0.3,293.31,18.45,6.17,15201595,407296,1533,0.05,0,37.88,0.02,0.06,0.14,0.09,0.08
+XALG,Equity - Global Strategy,Alphinity Global Equity Fund (Managed Fund),0.75,517.42,40.41,5.77,318091,31785,25,0,0.01,10.34,0.02,0.07,0.22,n/a,n/a
+XASG,Equity - Global Strategy,Alphinity Global Sustainable Fund (Managed Fund),0.75,64.64,5.45,0.12,21328,3471,10,0,0.01,6.41,0,0.09,n/a,n/a,n/a
+VLUE,Equity - Global Strategy,VanEck MSCI International Value ETF,0.4,236.95,9.13,,6230606,250074,589,0.03,0,25.44,0.03,0.04,0.19,n/a,n/a
+ZYUS,Equity - Global Strategy,Global X S&P 500 High Yield Low Volatility ETF,0.35,67.91,62.02,-0.64,2694035,205526,407,0.04,0,13.28,0.07,n/a,n/a,n/a,n/a
+IFRA,Equity - Infrastructure,VanEck FTSE Global Infrastructure (Hedged) ETF,0.2,800.21,13.52,32.87,63544592,3269585,3733,0.08,0,19.43,0.03,-0.02,-0.04,0.04,0.03
+GLIN,Equity - Infrastructure,iShares Core FTSE Global Infrastructure (AUD Hedged) ETF,0.15,180.05,58.09,61.59,62488370,2637058,454,0.35,0,23.69,0.02,-0.02,n/a,n/a,n/a
+JPSI,Equity - Infrastructure,JPMorgan Sustainable Infrastructure Active ETF (Managed Fund),0.55,1.25,-0.02,,101,2,1,0,0,50.56,0.01,n/a,0.02,n/a,n/a
+MICH,Equity - Infrastructure,Magellan Infrastructure Fund (Currency Hedged) (Managed Fund),1.06,655.62,-24.02,-2.17,19182750,7044838,1922,0.03,0,2.71,0.04,-0.01,-0.01,0.04,0.03
+VBLD,Equity - Infrastructure,Vanguard Global Infrastructure Index ETF,0.47,321.26,5.48,2.94,14285560,233236,1439,0.04,0,61.6,0.03,0.01,0.04,0.08,0.07
+MVA,Property - Australia,VanEck Australian Property ETF,0.35,551.16,-84.63,-103.51,135637592,6605461,3040,0.25,0,21.5,0.05,0.06,0.04,0.05,0.04
+RINC,Property - Australia,Betashares Martin Currie Real Income Fund (Managed Fund),0.85,56.95,-0.45,0.47,1547015,183958,231,0.03,0,8.55,0.04,0,0.03,0.06,0.04
+SLF,Property - Australia,SPDR S&P/ASX 200 Listed Property Fund,0.4,481.22,7.09,1.75,16183283,1437985,1391,0.03,0,11.68,0.08,0.01,0.1,0.07,0.05
+VAP,Property - Australia,Vanguard Australian Property Securities Index ETF,0.23,2747.97,11.76,16.24,95055904,1152421,13762,0.03,0,85.34,0.04,0.01,0.09,0.08,0.05
+DJRE,Property - Global,SPDR Dow Jones Global Real Estate ESG Fund,0.5,421.18,-0.37,1.28,11013133,543957,1495,0.03,0,20.3,0.03,0,0.07,0.07,0.02
+GLPR,Property - Global,iShares Core FTSE Global Property Ex Australia (AUD Hedged) ETF,0.15,61.25,37.2,38.28,45215898,1772282,112,0.74,0,25.52,0.02,-0.04,n/a,n/a,n/a
+HJZP,Property - Global,Hejaz Property Fund (Managed Fund),1.5,12.44,-0.16,0,6158,7863,12,0,0.01,0.79,0.01,0,-0.01,n/a,n/a
+RCAP,Property - Global,Resolution Capital Global Property Securities Fund (Managed Fund),0.8,1388.49,-63.37,4.26,3752703,2412698,639,0,0.01,1.54,0.03,-0.04,-0.03,n/a,n/a
+REIT,Property - Global,VanEck FTSE International Property (Hedged) ETF,0.2,303.01,-9.95,5.58,13024390,842775,2153,0.04,0,15.33,0.04,-0.04,-0.03,0.01,n/a
+1GOV,Fixed Income - Australia Dollar,VanEck 1-5 Year Australian Government Bond ETF,0.22,2.04,0,0,412007,8114,55,0.2,0,50.89,0.01,0,n/a,n/a,n/a
+5GOV,Fixed Income - Australia Dollar,VanEck 5-10 Year Australian Government Bond ETF,0.22,4.14,-0.01,0,1632555,31499,78,0.39,0,51.72,0.01,0,n/a,n/a,n/a
+XGOV,Fixed Income - Australia Dollar,VanEck 10+ Year Australian Government Bond ETF,0.22,14.61,-0.12,,1265169,24447,73,0.09,0,52.17,0.01,-0.01,n/a,n/a,n/a
+AGVT,Fixed Income - Australia Dollar,Betashares Australian Government Bond ETF,0.22,615.11,3.15,6.77,44901405,1078285,2048,0.07,0,41.94,0.03,0,0.01,-0.05,n/a
+BHYB,Fixed Income - Australia Dollar,Betashares Australian Major Bank Hybrids Index ETF,0.35,338.45,11.19,11.85,20951657,2128726,1168,0.06,0,9.85,0.05,0,0.05,n/a,n/a
+BNDS,Fixed Income - Australia Dollar,Betashares Western Asset Australian Bond Fund (Managed Fund),0.42,621,-14.62,-13.01,44287265,1892214,1346,0.07,0,23.69,0.03,0,0.03,-0.03,0.01
+BOND,Fixed Income - Australia Dollar,SPDR S&P/ASX Australian Bond Fund,0.24,37.08,-0.01,0,820780,33484,201,0.02,0,24.75,0,0,0.02,-0.03,0
+CRED,Fixed Income - Australia Dollar,Betashares Australian Investment Grade Bond ETF,0.25,682.85,17.71,18.3,38584764,1721090,3716,0.06,0,22.68,0.05,0,0.06,-0.03,0.02
+FLOT,Fixed Income - Australia Dollar,VanEck Australian Floating Rate ETF,0.22,686.63,-1.29,-2.95,18999061,763783,1455,0.03,0,24.93,0.04,0.01,0.05,0.02,0.02
+GOVT,Fixed Income - Australia Dollar,SPDR S&P/ASX Australian Government Bond Fund,0.1,35.86,0.41,0.48,885422,37102,259,0.02,0,24.02,0.01,0,0.01,-0.04,0
+GGAB,Fixed Income - Australia Dollar,Betashares Geared Long Australian Government Bond Fund (Hedge Fund),0.99,2.69,2.13,2.15,522461,24276,33,0.19,0,21.62,0,-0.03,n/a,n/a,n/a
+BBAB,Fixed Income - Australia Dollar,Betashares Geared Short Australian Government Bond Fund (Hedge Fund),0.99,1.39,0.94,0.93,751756,40051,21,0.54,0,18.54,0,n/a,n/a,n/a,n/a
+HBRD,Fixed Income - Australia Dollar,Betashares Active Australian Hybrids Fund,0.55,2161.64,5.48,7.61,85827672,8512181,3727,0.04,0,10.1,0.05,0,0.06,0.04,0.04
+HCRD,Fixed Income - Australia Dollar,Betashares Interest Rate Hedged Australian Grade Corporate Bond ETF,0.29,14.53,4.89,4.84,4348499,180300,61,0.3,0,24.19,0.05,0.01,0.09,n/a,n/a
+IAF,Fixed Income - Australia Dollar,iShares Core Composite Bond ETF,0.1,2285.2,8.68,24.1,77492355,770472,6434,0.03,0,101.18,0.02,0,0.02,-0.03,0
+ICOR,Fixed Income - Australia Dollar,iShares Core Corporate Bond ETF,0.15,149.52,-0.66,0.02,8505323,91177,882,0.06,0,93.92,0.03,0.01,0.05,-0.01,n/a
+ILB,Fixed Income - Australia Dollar,iShares Government Inflation ETF,0.18,619.08,-9.62,0.09,13990004,111579,2000,0.02,0,125.61,0.02,-0.01,0.03,-0.01,0.02
+IGB,Fixed Income - Australia Dollar,iShares Treasury ETF,0.18,405,-0.41,1.98,15454559,158868,1387,0.04,0,97.92,0.02,0,0.01,-0.03,0
+IYLD,Fixed Income - Australia Dollar,iShares Yield Plus ETF,0.12,29.33,-4.88,-4.91,7921408,80326,208,0.27,0,99.1,0.04,0.01,0.05,0.01,n/a
+OZBD,Fixed Income - Australia Dollar,Betashares Australian Composite Bond ETF,0.19,324.74,17.91,19.49,29918227,681148,2485,0.09,0,44.28,0.04,0,0.03,n/a,n/a
+PLUS,Fixed Income - Australia Dollar,VanEck Australian Corporate Bond Plus ETF,0.32,297.46,0.74,0.02,12018317,731821,809,0.04,0,16.58,0.03,0.01,0.05,-0.02,0.02
+QPON,Fixed Income - Australia Dollar,Betashares Australian Bank Senior Floating Rate Bond ETF,0.22,1226.52,14.01,12.61,61296189,2362406,5061,0.05,0,26.03,0.04,0.01,0.05,0.02,0.02
+RGB,Fixed Income - Australia Dollar,Russell Investments Australian Government Bond ETF,0.24,168.37,1.26,1.52,6075115,323320,647,0.04,0,18.99,0.01,0,0,-0.04,0
+RSM,Fixed Income - Australia Dollar,Russell Investments Australian Semi-Government Bond ETF,0.26,54.29,1.34,1.18,1858661,95196,144,0.03,0,19.69,0,0,0.03,-0.02,0.01
+RCB,Fixed Income - Australia Dollar,Russell Investments Australian Select Corporate Bond ETF,0.28,263.9,2.19,1.53,6395463,322088,527,0.02,0,19.92,0.02,0,0.04,0,0.02
+SUBD,Fixed Income - Australia Dollar,VanEck Australian Subordinated Debt ETF,0.29,1210.86,-2.26,0.16,78690974,3148450,2982,0.07,0,25.02,0.05,0,0.07,0.03,n/a
+VACF,Fixed Income - Australia Dollar,Vanguard Australian Corporate Fixed Interest Index ETF,0.2,661.89,-0.74,2.68,15181336,304247,1945,0.02,0,50.19,0.02,0,0.05,-0.01,0.02
+VAF,Fixed Income - Australia Dollar,Vanguard Australian Fixed Interest Index ETF,0.1,1884.62,4.7,18.28,54412186,1208002,5508,0.03,0,45.36,0.02,0,0.02,-0.03,0
+VGB,Fixed Income - Australia Dollar,Vanguard Australian Government Bond Index ETF,0.2,1010.39,-7.66,1.72,34890028,760633,4993,0.03,0,46.24,0.02,0,0.02,-0.03,0
+AESG,Fixed Income - Global,iShares Global Aggregate Bond ESG (AUD Hedged) ETF,0.19,100.7,0.73,1.45,2093370,21669,576,0.02,0,96.83,0.02,-0.01,0.02,n/a,n/a
+BBFD,Fixed Income - Global,Betashares Geared Short U.S. Treasury Bond Fund - Currency Hedged (Hedge Fund),0.99,1.03,0.54,0.52,1579632,82279,69,1.53,0,19.08,0,0.06,n/a,n/a,n/a
+DHOF,Fixed Income - Global,Daintree Hybrid Opportunities Fund (Managed Fund),0.75,42.81,-0.57,-1.22,1164636,125521,42,0.03,0,9.4,0.04,0,0.06,n/a,n/a
+EBND,Fixed Income - Global,VanEck Vectors Emerging Income Opportunities Active ETF (Managed Fund),0.95,144.97,0.72,0.01,4101091,403324,554,0.03,0,10.21,0.05,0.01,0.07,0.01,n/a
+GOOD,Fixed Income - Global,Janus Henderson Sustainable Credit Active ETF (Managed Fund),0.5,0.5,0,0,43078,856,5,0.09,0,50.37,0.03,0,n/a,n/a,n/a
+IHCB,Fixed Income - Global,iShares Core Global Corporate Bond (AUD Hedged) ETF,0.26,303.96,0.56,1.86,10590166,114331,1476,0.03,0,92.99,0.03,0,0.03,-0.04,0.01
+IHHY,Fixed Income - Global,iShares Global High Yield Bond (AUD Hedged) ETF,0.56,110.92,-3.63,-3.74,10506408,112903,1011,0.09,0,93.41,0.05,0,0.08,0.01,0.03
+IHEB,Fixed Income - Global,iShares J.P.Morgan USD Emerging Markets Bond (AUD Hedged) ETF,0.51,86.17,-1.38,,2586421,34406,858,0.03,0,75.44,0.04,-0.02,0.04,-0.06,-0.01
+IUSG,Fixed Income - Global,iShares U.S. Treasury Bond (AUD Hedged) ETF,0.15,2.58,1.02,1.03,433801,4214,8,0.17,0,102.39,0,-0.01,n/a,n/a,n/a
+GBND,Fixed Income - Global,Betashares Sustainability leaders Diversified Bond ETF - Currency Hedged,0.49,335.6,0.06,4.99,8086451,392035,371,0.02,0,20.75,0.03,-0.01,0.03,-0.05,n/a
+GCAP,Fixed Income - Global,VanEck Bentham Global Capital Securities Active ETF (Managed Fund),0.59,30.99,-0.94,-0.87,5732598,661830,241,0.19,0,8.71,0.06,0,0.01,n/a,n/a
+GGOV,Fixed Income - Global,Betashares U.S. Treasury Bond20+ Year ETF - Currency Hedged,0.22,177.98,-71.8,-61.2,99981179,6962176,2629,0.56,0,14.44,0.02,-0.04,-0.09,-0.14,n/a
+GGFD,Fixed Income - Global,Betashares Geared Long U.S. Treasury Bond Fund - Currency Hedged (Hedge Fund),0.99,0.53,-0.02,,187271,8892,13,0.35,0,20.88,0,-0.04,n/a,n/a,n/a
+MQDB,Fixed Income - Global,Macquarie Dynamic Bond Active ETF (Managed Fund),0.614,2.09,-0.01,0,629006,60313,16,0.3,0,10.43,0,-0.01,n/a,n/a,n/a
+MQIO,Fixed Income - Global,Macquarie Income Opportunities Active ETF (Managed Fund),0.492,1.7,-0.36,-0.36,96255,9374,10,0.06,0,10.29,0,0,n/a,n/a,n/a
+SKUK,Fixed Income - Global,Hejaz Sukuk Active ETF (Managed Fund),1.33,5.17,0.05,0,57910,57324,9,0.01,0.01,1.02,0,0.01,n/a,n/a,n/a
+TBIL,Fixed Income - Global,VanEck 1-3 Month US Treasury Bond ETF,0.22,83.79,3.34,0.01,7636602,151472,625,0.09,0,51.06,0.04,0.05,n/a,n/a,n/a
+US10,Fixed Income - Global,Betashares U.S. Treasury Bond 7-10 Year Currency Hedged ETF,0.22,10.32,-38.98,-38.18,43554373,843817,159,4.22,0,51.6,0.01,-0.01,n/a,n/a,n/a
+USIG,Fixed Income - Global,Global X USD Corporate Bond ETF (Currency Hedged),0.3,6.41,2.43,2.47,2302883,234727,40,0.36,0,9.86,0.03,-0.01,n/a,n/a,n/a
+USHY,Fixed Income - Global,Global X USD High Yield Bond ETF (Currency Hedged),0.3,12.96,-0.14,0,938754,90305,255,0.07,0.01,10.37,0.03,-0.01,0.06,n/a,n/a
+USTB,Fixed Income - Global,Global X US Treasury Bond ETF (Currency Hedged),0.19,700.11,-0.12,6.56,12858379,1380971,1637,0.02,0,9.34,0.02,-0.01,-0.01,n/a,n/a
+UTIP,Fixed Income - Global,Betashares Inflation-Protected U.S. Treasury Bond Currency Hedged ETF,0.22,98.75,0.1,1.02,3017824,118866,475,0.03,0,25.45,0.01,0,n/a,n/a,n/a
+VBND,Fixed Income - Global,Vanguard Global Aggregate Bond Index (Hedged) ETF,0.2,1207.61,9.27,26.29,41312953,994266,3898,0.03,0,41.64,0.02,-0.01,0.02,-0.04,0
+VCF,Fixed Income - Global,Vanguard International Credit Securities Index (Hedged) ETF,0.3,152.08,-0.42,1.59,5823374,152450,1117,0.04,0,38.32,0.02,-0.01,0.03,-0.04,0
+VEFI,Fixed Income - Global,Vanguard Ethically Conscious Global Aggregate Bond Index (Hedged) ETF,0.26,67.5,-0.8,0.02,1483397,35031,498,0.02,0,42.43,0.02,-0.01,0.02,-0.04,0
+VIF,Fixed Income - Global,Vanguard International Fixed Interest Index (Hedged) ETF,0.2,741.92,-1.75,9.25,28426578,735574,3225,0.04,0,38.63,0.02,-0.01,0.02,-0.04,0
+XARO,Fixed Income - Global,ActiveX Ardea Real Outcome Bond Fund (Managed Fund),0.5,616.27,-16.58,-10.31,23521335,977044,2320,0.04,0,23.96,0.02,0,0.04,0.01,0.03
+AAA,Cash,Betashares Australian High Interest Cash ETF,0.18,3479.74,46.69,46.01,539660983,10751435,7726,0.16,0,50.27,0.04,0,0.04,0.02,0.02
+BILL,Cash,iShares Core Cash ETF,0.07,728.61,-9.04,-9.04,35048561,348400,2394,0.05,0,100.71,0.04,0,0.04,0.02,0.01
+ISEC,Cash,iShares Enhanced Cash ETF,0.12,264.3,-1,-1,15791954,156922,1140,0.06,0,100.77,0.04,0,0.04,0.02,0.02
+MMKT,Cash,Betashares Aust. Cash Plus Fund (Managed Fund),0.18,80.34,20.04,20.08,43450714,867420,245,0.54,0,50.21,0.01,0,n/a,n/a,n/a
+DBBF,Mixed Asset,Betashares Ethical Diversified Balanced ETF ,0.39,25.38,2.25,1.86,4314695,180044,174,0.17,0,24.61,0.03,0.02,0.12,0.03,n/a
+DGGF,Mixed Asset,Betashares Ethical Diversified Growth ETF ,0.39,41.65,0.1,-1.17,1487469,58308,190,0.04,0,26.33,0.03,0.04,0.16,0.06,n/a
+DHHF,Mixed Asset,Betashares Diversified All Growth ETF ,0.19,330.8,18.76,9.52,15906486,516881,5983,0.05,0,31.65,0.02,0.04,0.18,0.11,n/a
+DZZF,Mixed Asset,Betashares Ethical High Growth ETF ,0.39,72.31,1.92,-1.13,4300999,158202,609,0.06,0,27.93,0.04,0.05,0.2,0.09,n/a
+GROW,Mixed Asset,Schroder Real Return (Managed Fund),0.83,53.82,-2.63,-1.54,2078099,586445,95,0.04,0.01,3.58,0.05,0,0.06,0.02,0.04
+IBAL,Mixed Asset,iShares Balanced ESG ETF,0.22,2.74,0.06,0,442165,16450,42,0.16,0,27.41,0.02,0.03,0.12,n/a,n/a
+IGRO,Mixed Asset,iShares High Growth ESG ETF,0.22,7.07,0.79,0.59,1004468,34782,141,0.14,0,29.44,0.02,0.04,0.21,n/a,n/a
+VDCO,Mixed Asset,Vanguard Diversified Conservative Index ETF,0.27,206.68,-0.27,-0.72,9338877,184717,848,0.05,0,50.97,0.01,0,0.06,0,0.03
+VDBA,Mixed Asset,Vanguard Diversified Balanced Index ETF,0.27,614.6,6.1,0.71,15829626,299818,1710,0.03,0,53.49,0.02,0.01,0.09,0.03,0.06
+VDGR,Mixed Asset,Vanguard Diversified Growth Index ETF,0.27,770.85,12.55,1.44,20317661,359727,2379,0.03,0,57.37,0.02,0.02,0.11,0.06,0.08
+VDHG,Mixed Asset,Vanguard Diversified High Growth Index ETF,0.27,2190.95,47.97,6.15,57459520,952326,14015,0.03,0,61.65,0.03,0.03,0.14,0.09,0.1
+AUDS,Currency,Betashares Strong Australian Dollar Fund (Hedge Fund),1.38,30.87,-1.31,1.58,4934706,762500,335,0.16,0,6.3,0,-0.09,-0.18,-0.16,-0.11
+USD,Currency,Betashares U.S Dollar ETF,0.45,97.41,1.79,-2.62,5030626,341745,276,0.05,0,14.98,0.03,0.05,0.12,0.07,0.04
+YANK,Currency,Betashares Strong US Dollar Fund (Hedge Fund),1.38,6.91,0.7,,2116117,177063,138,0.31,0,12.46,0.05,0.11,0.23,0.13,0.03
+BCOM,Commodity ,Global X Bloomberg Commodity ETF (Synthetic),0.6,30.85,1.03,,924872,92354,159,0.03,0.02,10.14,0,0.03,n/a,n/a,n/a
+GLDN,Commodity ,iShares Physical Gold ETF,0.18,23.71,3.43,2.96,3903690,158500,118,0.16,0,24.7,0,0.02,n/a,n/a,n/a
+ETPMPM,Commodity ,Global X Physical Precious Metals Basket,0.44,50.63,-0.95,0.2,1688305,8710,136,0.03,0,192.44,0,-0.02,-0.03,-0.02,0.06
+ETPMPT,Commodity ,Global X Physical Platinum,0.49,18.09,-0.91,0.01,1333584,10325,168,0.07,0,130.36,0,-0.05,-0.03,0,0.04
+ETPMAG,Commodity ,Global X Physical Silver,0.49,247.63,0.41,-1.57,18829647,590768,1116,0.08,0,32.64,0,0.01,0.04,0,0.09
+ETPMPD,Commodity ,Global X Physical Palladium,0.49,3.53,-0.4,0,199280,1405,25,0.06,0.03,138.66,0,-0.1,-0.36,-0.21,-0.05
+GCO2,Commodity ,Global X Global Carbon ETF (Synthetic),0.45,1.16,-0.19,,1055,136,3,0,0.01,7.81,0,-0.1,-0.17,n/a,n/a
+GOLD,Commodity ,Global X Physical Gold ,0.4,2735.22,83.74,23.05,90973675,3217574,8517,0.03,0,28.6,0,0.02,0.13,0.08,0.11
+NUGG,Commodity ,VanEck Gold Bullion ETF,0.25,40.66,2.53,1.55,3571504,117318,206,0.09,0,30.92,0,0.03,0.13,n/a,n/a
+OOO,Commodity ,Betashares Crude Oil Index ETF-Currency Hedged (Synthetic),1.29,140.11,7.84,-2.26,17883131,3343878,1764,0.13,0,5.64,0,0.08,0.04,0.22,-0.08
+PMGOLD,Commodity ,Perth Mint Gold,0.15,768.86,-85.25,-104.19,31437491,1028289,2713,0.04,0,30.87,0,0.02,0.13,0.09,0.11
+QAU,Commodity ,Betashares Gold Bullion ETF (Currency Hedged),0.59,498.93,-15.54,-6.66,23749170,1380678,1873,0.05,0,17.07,0,-0.02,0.03,0.01,0.07
+XCO2,Commodity ,VanEck Global Carbon Credits ETF (Synthetic),0.45,4.81,-0.75,,696645,37679,121,0.14,0,17.22,0.03,-0.14,-0.16,n/a,n/a
+XJOAI,Australian Indices,S&P/ASX 200 Accumulation,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,96904.12,n/a,0.01,0.07,0.1,0.1
+XSOAI,Australian Indices,S&P/ASX Small Ords Accumulation,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,9771.1,n/a,0.01,0.02,0.01,0.05
+XPJAI,Australian Indices,S&P/ASX 200 A-REIT Accumulation,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,66091.92,n/a,0.01,0.1,0.08,0.05
+XIFAI,Australian Indices,S&P/ASX Infrastructure Index Accumulation,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,659.9,n/a,-0.02,0.07,0.15,0.08
+SPBDASXT,Australian Indices,S&P/ASX Aust Fixed Int Idx Total Return,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,169.84,n/a,0,0,0,0.02
+SPBDAGVT,Australian Indices,S&P/ASX Govt Bond Idx Total Return,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,169.97,n/a,0,0,0,0.02
