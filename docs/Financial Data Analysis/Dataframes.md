@@ -3,7 +3,7 @@
 ## What are they
 A DataFrame is a two-dimensional, size-mutable, and potentially heterogeneous tabular data structure with labeled axes (rows and columns). Think of it as a table in a database or an Excel spreadsheet. DataFrames are a key data structure in the pandas library, which is widely used for data manipulation and analysis in Python.
 
-In this lesson we will use [cleaned ETF datasets](https://raw.githubusercontent.com/mike-whypred/financial-data-analysis/main/data/asx_etp_202401_small.csv) as our input.
+In this lesson we will use [cleaned ETF datasets](https://github.com/mike-whypred/financial-data-analysis/blob/docs-HG/data/asx_etp_202401_clean.csv) as our input.
 
 To load the data we can utilize `read_csv` from `pandas` library. We will print top 5 rows using `head` function.
 
