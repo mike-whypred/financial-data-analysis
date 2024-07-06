@@ -1,8 +1,6 @@
 # Parquet
 
-## Overview
-
-Parquet is a columnar storage file format optimized for use with big data processing frameworks. It is designed to bring efficiency compared to traditional row-based file formats like CSV and JSON. Parquet is particularly useful for analytical workloads where read performance and storage efficiency are critical.
+Parquet is a columnar storage file format optimized for use with big data processing frameworks. It is designed to bring efficiency compared to traditional row-based file formats like CSV and JSON. Parquet is particularly useful for analytical workloads where read performance and storage efficiency are critical. The parquet file format is not human readable and is stored in binary format.
 
 ## Key Features
 

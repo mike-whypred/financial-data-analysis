@@ -1,6 +1,6 @@
 # JSON 
 
-JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate. It is recognisable by the use of curly brackests. JSON is built on two structures:
+JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate. It is recognisable by the use of curly brackets. JSON is built on two structures:
 
 1. **A collection of name/value pairs**: In various languages, this is realized as an object, record, struct, dictionary, hash table, keyed list, or associative array. In python this is a dictionary.
 2. **An ordered list of values**: In most languages, this is realized as an array, vector, list, or sequence.
