@@ -76,11 +76,11 @@ nav:
   - The Terminal:
       - 'The Terminal/What is it and How to Access It.md'
       - 'The Terminal/Common Commands.md'
-  - Version Management:
-      - 'Version Management/Status Quo.md'
-      - 'Version Management/Managing Versions with File Management.md'
-      - 'Version Management/Git.md'
-      - 'Version Management/Git Platforms.md'
+  - Version Control:
+      - 'Version Control/Status Quo.md'
+      - 'Version Control/Version Control Software.md'
+      - 'Version Control/Git.md'
+      - 'Version Control/Basic Git Commands.md'
   - Programming Languages:
       - 'Programming Languages/Status Quo.md'
       - 'Programming Languages/VBA.md'
@@ -102,10 +102,9 @@ nav:
       - 'Introduction to Programming/Saving and Loading Data.md'
       - 'Introduction to Programming/Virtual environments.md'
       - 'Introduction to Programming/Best Practices.md'
-  - APIs:
-      - 'APIs/What are APIs.md'
-      - 'APIs/How to Use Them.md'
-      - 'APIs/API Wrappers.md'
+  - Working with APIs:
+      - 'Working with APIs/What are APIs.md'
+
   - Environment Variables:
       - 'Environment Variables/What are Environment Variables.md'
       - 'Environment Variables/Managing sensitive keys with Environment Variables.md'
@@ -117,6 +116,7 @@ nav:
       - 'Financial Data Analysis/Time Series Data.md'
       - 'Financial Data Analysis/Financial Transformations.md'
       - 'Financial Data Analysis/Joining Multiple Datasets.md'
+      - 'Financial Data Analysis/Web Scraping.md'
 
 
 

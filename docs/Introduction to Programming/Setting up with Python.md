@@ -14,15 +14,15 @@ Python is a high-level, interpreted programming language known for its simplicit
 
 Python has gained immense popularity in the field of data science due to several reasons:
 
-1. **Data Manipulation and Analysis**: Python provides powerful libraries like NumPy, Pandas, and SciPy, which offer efficient data structures and functions for numerical computing, data manipulation, and scientific computing.
+- **Data Manipulation and Analysis**: Python provides powerful libraries like NumPy, Pandas, and SciPy, which offer efficient data structures and functions for numerical computing, data manipulation, and scientific computing.
 
-2. **Machine Learning and Deep Learning**: Libraries such as scikit-learn, TensorFlow, and PyTorch have made Python a go-to language for machine learning and deep learning tasks. These libraries provide high-level APIs and abstractions, making it easier to build and train models.
+- **Machine Learning and Deep Learning**: Libraries such as scikit-learn, TensorFlow, and PyTorch have made Python a go-to language for machine learning and deep learning tasks. These libraries provide high-level APIs and abstractions, making it easier to build and train models.
 
-3. **Visualization**: Python offers excellent data visualization libraries like Matplotlib, Seaborn, and Plotly, enabling data scientists to create informative and visually appealing charts, graphs, and plots.
+- **Visualization**: Python offers excellent data visualization libraries like Matplotlib, Seaborn, and Plotly, enabling data scientists to create informative and visually appealing charts, graphs, and plots.
 
-4. **Jupyter Notebooks**: Python integrates seamlessly with Jupyter Notebooks, an interactive development environment that combines code, documentation, and visualizations in a single document. Jupyter Notebooks have become a standard tool for data exploration, analysis, and sharing results.
+- **Jupyter Notebooks**: Python integrates seamlessly with Jupyter Notebooks, an interactive development environment that combines code, documentation, and visualizations in a single document. Jupyter Notebooks have become a standard tool for data exploration, analysis, and sharing results.
 
-5. **Community and Ecosystem**: Python has a large and active community of developers and data scientists who contribute to its growth and provide support. The extensive ecosystem of libraries, frameworks, and tools makes it easier to find solutions to common problems and accelerates development.
+- **Community and Ecosystem**: Python has a large and active community of developers and data scientists who contribute to its growth and provide support. The extensive ecosystem of libraries, frameworks, and tools makes it easier to find solutions to common problems and accelerates development.
 
 ## Getting Started
 

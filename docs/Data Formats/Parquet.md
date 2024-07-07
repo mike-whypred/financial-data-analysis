@@ -11,7 +11,7 @@ Parquet is a columnar storage file format optimized for use with big data proces
 
 ## Relevance to Financial Data
 
-Financial data often are becoming larger and larger with numerous columns, such as transaction records, market data, and financial statements. The Parquet format offers several advantages for storing and processing this type of data over formats such as CSV:
+Financial data often are becoming larger and larger with data such as pricing, fundamentals data, and alternative data. The Parquet format offers several advantages for storing and processing this type of data over formats such as CSV:
 
 - **Efficient Storage**: Financial datasets can be very large. Parquet's columnar storage and compression capabilities significantly reduce the storage footprint.
 - **Fast Query Performance**: Analytical queries on financial data often involve aggregations and filtering on specific columns. Parquet's columnar format allows for faster read times by only accessing the necessary columns.
